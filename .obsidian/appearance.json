@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "soure-mode"
+  ]
+}

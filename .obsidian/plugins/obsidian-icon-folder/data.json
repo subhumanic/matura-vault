@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiHeadphones",
+      "LiMic",
+      "LiImage",
+      "LiMonitorCheck",
+      "LiMonitorCog"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Fachtheorie/MEDT/Farbenlehre": "LiPalette",
+  "Fachtheorie/MEDT/Druck": "LiPrinter",
+  "Fachtheorie/MEDT/Druck/3D Druck": "LiGlobe",
+  "Fachtheorie/MEDT/Druck/Druckarten": "LiFileStack",
+  "Fachtheorie/MEDT/Audiotechnik": "LiHeadphones",
+  "Fachtheorie/MEDT/Kameratechnik": "LiCamera",
+  "Fachtheorie/MEDT/Videotechnik": "LiVideo",
+  "Fachtheorie/MEDT/Typographie": "LiLetterText",
+  "Fachtheorie/MEDT/Bildverarbeitung": "LiImage",
+  "Fachtheorie/MEDT/Colormanagement": "LiMonitorCheck"
+}

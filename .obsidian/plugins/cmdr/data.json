@@ -1,0 +1,45 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "workspace:new-tab"
+        },
+        {
+          "action": 0,
+          "commandId": "graph:open"
+        }
+      ],
+      "name": "Open Graph View In New Tab",
+      "icon": "star",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

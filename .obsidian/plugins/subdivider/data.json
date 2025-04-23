@@ -1,0 +1,7 @@
+{
+  "recursive": true,
+  "recursionDepth": 1,
+  "delete": false,
+  "index": false,
+  "compact": false
+}
