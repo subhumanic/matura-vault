@@ -1,0 +1,5 @@
+[[BNC]]
+[[CINCH]]
+[[DIN-Stecker]]
+[[HDMI]]
+[[Koaxial]]

@@ -11,7 +11,7 @@
   "showDeleteConfirmation": false,
   "underlineFolder": true,
   "stopWhitespaceCollapsing": true,
-  "underlineFolderInPath": true,
+  "underlineFolderInPath": false,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
   "folderNoteName": "{{folder_name}}",
@@ -48,13 +48,13 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "path",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas"
   ],
   "boldName": false,
-  "boldNameInPath": false,
+  "boldNameInPath": true,
   "cursiveName": false,
   "cursiveNameInPath": false,
   "disableOpenFolderNoteOnClick": false,

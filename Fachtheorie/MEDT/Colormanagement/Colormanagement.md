@@ -14,3 +14,6 @@ Colormanagment System hat folgende Komponenten:
 [[Profile Connection Space]]
 [[REC & BT]]
 [[Rendering Intent]]
+[[Monitorkalibrierung]]
+[[Profilierung]]
+
