@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiType",
+      "LiTypeOutline",
+      "LiVideo",
       "LiHeadphones",
-      "LiMic",
-      "LiImage",
-      "LiMonitorCheck",
-      "LiMonitorCog"
+      "LiMic"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,8 +40,8 @@
   "Fachtheorie/MEDT/Druck/Druckarten": "LiFileStack",
   "Fachtheorie/MEDT/Audiotechnik": "LiHeadphones",
   "Fachtheorie/MEDT/Kameratechnik": "LiCamera",
-  "Fachtheorie/MEDT/Videotechnik": "LiVideo",
-  "Fachtheorie/MEDT/Typographie": "LiLetterText",
+  "Fachtheorie/MEDT/Typographie": "LiType",
   "Fachtheorie/MEDT/Bildverarbeitung": "LiImage",
-  "Fachtheorie/MEDT/Colormanagement": "LiMonitorCheck"
+  "Fachtheorie/MEDT/Colormanagement": "LiMonitorCheck",
+  "Fachtheorie/MEDT/Videotechnik": "LiVideo"
 }

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22e207950972eb36",
+            "id": "c1c4975fea946521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fachtheorie/MEDT/Colormanagement/Colormanagement.md",
+                "file": "Fachtheorie/MEDT/Fragen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colormanagement"
+              "title": "Fragen"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 289.5
   },
   "right": {
     "id": "d7d8579b8548be21",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fachtheorie/MEDT/Colormanagement/Monitorkalibrierung.md",
+                "file": "Fachtheorie/MEDT/Videotechnik/Bildverschmelzungsgrenze, Wiederholfrequenz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monitorkalibrierung"
+              "title": "Backlinks for Bildverschmelzungsgrenze, Wiederholfrequenz"
             }
           },
           {
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fachtheorie/MEDT/MEDT3/Druck.md",
+                "file": "Fachtheorie/MEDT/Videotechnik/Gammakorrektur.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Druck"
+              "title": "Outline of Gammakorrektur"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,52 +171,52 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "22e207950972eb36",
+  "active": "c1c4975fea946521",
   "lastOpenFiles": [
-    "Fachtheorie/MEDT/Colormanagement/Monitorkalibrierung.md",
-    "attachments/Pasted image 20250421161411.png",
-    "Fachtheorie/MEDT/Colormanagement/Profilierung.md",
-    "attachments/Pasted image 20250421154704.png",
-    "attachments/Pasted image 20250421154621.png",
-    "attachments/Pasted image 20250421153608.png",
-    "Fachtheorie/MEDT/Colormanagement/Arbeitsfarbräume.md",
-    "Fachtheorie/MEDT/Colormanagement/Farbräume.md",
-    "Fachtheorie/MEDT/Farbenlehre/Farben im Druck/Prozessfarben.md",
-    "attachments/Pasted image 20250421151828.png",
-    "Fachtheorie/MEDT/Farbenlehre/CIE Normvalenz.md",
-    "Fachtheorie/MEDT/Colormanagement/Profile Connection Space.md",
-    "Fachtheorie/MEDT/Colormanagement/REC & BT.md",
-    "Fachtheorie/MEDT/Colormanagement/ICC Profile.md",
-    "Fachtheorie/MEDT/Farbenlehre/Farbabstand.md",
-    "Fachtheorie/MEDT/Farbenlehre/CIELAB.md",
-    "Fachtheorie/MEDT/Farbenlehre/Farbenlehre.md",
-    "Fachtheorie/MEDT/Colormanagement/Rendering Intent.md",
-    "Fachtheorie/MEDT/Druck/direkt vs indirekt.md",
-    "Fachtheorie/MEDT/Druck/Druck.md",
-    "Fachtheorie/MEDT/MEDT.md",
-    "Fachtheorie/MEDT/Bildverabeitung.md",
-    "TagsRoutes/logMessage.md",
-    "Fachtheorie/MEDT/Colormanagement/Colormanagement.md",
+    "Fachtheorie/MEDT/Videotechnik/Videotechnik.md",
+    "Fachtheorie/MEDT/Videotechnik/Videosignale/SDI.md",
+    "Fachtheorie/MEDT/Videotechnik/Stecker und Kabel/Koaxial.md",
+    "attachments/Pasted image 20250427180451.png",
+    "Fachtheorie/MEDT/Videotechnik/Stecker und Kabel/BNC.md",
+    "Fachtheorie/MEDT/Videotechnik/Stecker und Kabel/HDMI.md",
+    "attachments/Pasted image 20250427175412.png",
+    "Fachtheorie/MEDT/Videotechnik/Stecker und Kabel/DIN-Stecker.md",
+    "attachments/Pasted image 20250427175259.png",
+    "Fachtheorie/MEDT/Videotechnik/Stecker und Kabel/CINCH.md",
+    "attachments/Pasted image 20250427175220.png",
+    "attachments/Pasted image 20250427175050.png",
+    "Fachtheorie/MEDT/Fragen.md",
+    "Fachtheorie/MEDT/Videotechnik/Videosignale/HDMI.md",
+    "Fachtheorie/MEDT/Videotechnik/Stecker und Kabel",
+    "attachments/Pasted image 20250427174427.png",
+    "attachments/Pasted image 20250427174245.png",
+    "attachments/Pasted image 20250427173632.png",
+    "attachments/Pasted image 20250427172440.png",
+    "Fachtheorie/MEDT/Videotechnik/Ortsfrequenz.md",
+    "Fachtheorie/MEDT/Videotechnik/Videosignale/YCbCr.md",
+    "attachments/Pasted image 20250427171449.png",
+    "Fachtheorie/MEDT/Videotechnik/Videosignale/Farbkonvertierung.md",
+    "Fachtheorie/MEDT/Videotechnik/YCbCr vs YUV.md",
+    "Fachtheorie/MEDT/Videotechnik/Videosignale/Komprimierung.md",
+    "Fachtheorie/MEDT/Videotechnik/Komponentensignal.md",
+    "Fachtheorie/MEDT/Videotechnik/Gammakorrektur.md",
+    "attachments/Farbkonvertierung 2025-04-27 16.14.41.excalidraw.md",
+    "Fachtheorie/MEDT/Videotechnik/Einflussfaktoren Bildqualität.md",
+    "Fachtheorie/MEDT/Videotechnik/Videosignale",
+    "Fachtheorie/MEDT/Videotechnik/Polarisation.md",
+    "Fachtheorie/MEDT/Videotechnik/Videosignale.md",
+    "Fachtheorie/MEDT/Videotechnik/Bildfehler.md",
+    "Fachtheorie/MEDT/Videotechnik/Videoformate/Videoformate.md",
+    "Fachtheorie/MEDT/Videotechnik/Bewegbilder.md",
+    "Fachtheorie/MEDT/Videotechnik/Bildraum, Objektraum.md",
+    "Fachtheorie/MEDT/Videotechnik/Organisationen und Standards.md",
+    "Fachtheorie/MEDT/Videotechnik/Videoformate",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "attachments/Pasted image 20250420211320.png",
-    "attachments/Pasted image 20250420211109.png",
-    "Fachtheorie/MEDT/Farbenlehre/Farbmischung.md",
-    "attachments/Pasted image 20250420210446.png",
-    "attachments/Pasted image 20250420210312.png",
     "Untitled",
-    "Fachtheorie/MEDT/Bildverarbeitung/Bildverarbeitung.md",
-    "Fachtheorie/MEDT/Videotechnik/Videotechnik.md",
-    "Fachtheorie/MEDT/Audiotechnik/Audiotechnik.md",
-    "Fachtheorie/MEDT/Kameratechnik/Kameratechnik.md",
-    "Fachtheorie/MEDT/Typographie/Typographie.md",
     "Fachtheorie/MEDT/Bildverarbeitung",
     "Fachtheorie/MEDT/Colormanagement",
     "Fachtheorie/MEDT/Untitled",
-    "Fachtheorie/MEDT/Typographie",
-    "Fachtheorie/MEDT/Videotechnik",
-    "Fachtheorie/MEDT/Audiotechnik",
-    "Fachtheorie/MEDT/Kameratechnik",
-    "attachments/Pasted image 20250419135901.png"
+    "Fachtheorie/MEDT/Typographie"
   ]
 }

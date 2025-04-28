@@ -1,0 +1,1 @@
+= ein Singal dass in seperaten Komponenten übertragen wird, zb YCbCr in Y Cb und Cr

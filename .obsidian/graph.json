@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:Fachtheorie/MEDT/Videotechnik  ",
+      "color": {
+        "a": 1,
+        "rgb": 1287187
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10.5208333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.56508787530396,
+  "scale": 0.8676767528459991,
   "close": true
 }
