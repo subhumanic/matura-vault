@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEye",
+      "LiSun",
       "LiType",
       "LiTypeOutline",
-      "LiVideo",
-      "LiHeadphones",
-      "LiMic"
+      "LiVideo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,8 @@
   "Fachtheorie/MEDT/Typographie": "LiType",
   "Fachtheorie/MEDT/Bildverarbeitung": "LiImage",
   "Fachtheorie/MEDT/Colormanagement": "LiMonitorCheck",
-  "Fachtheorie/MEDT/Videotechnik": "LiVideo"
+  "Fachtheorie/MEDT/Videotechnik": "LiVideo",
+  "Fachtheorie/MEDT/Lichttechnik/Lichttechnik.md": "LiSun",
+  "Fachtheorie/MEDT/Lichttechnik": "LiSun",
+  "Fachtheorie/MEDT/Wahrnehmung": "LiEye"
 }

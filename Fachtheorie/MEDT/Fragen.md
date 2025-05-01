@@ -1,2 +1,1 @@
-- Wertebereiche YCbCr -> 16-235 und 16-240
-- Common Intermediate Format?
+- MANUELLE UND AUTOMATISCHE FOKUSSIERUNG -> checki ned

@@ -1,6 +1,4 @@
 Arbeitsfarbräume sind **idealisierte** [[Farbräume]]
-
-
 # Definition
 werden definiert durch:
 - **Gamut**: 3 Primärvalenzen

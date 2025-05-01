@@ -25,7 +25,7 @@
       "query": "path:Fachtheorie/MEDT/Colormanagement  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11007752
       }
     },
     {
@@ -33,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 1287187
+      }
+    },
+    {
+      "query": "path:Fachtheorie/MEDT/Kameratechnik  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 0.891145833333333,
   "lineSizeMultiplier": 1.12083333333333,
   "collapse-forces": false,
-  "centerStrength": 0.528645833333333,
-  "repelStrength": 12.1875,
-  "linkStrength": 0.888020833333333,
+  "centerStrength": 0.484375,
+  "repelStrength": 9.84375,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7240094261302964,
-  "close": false
+  "scale": 0.8091292145733693,
+  "close": true
 }
