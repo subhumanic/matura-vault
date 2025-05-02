@@ -9,5 +9,5 @@ f(N) -> Brennweite = Diagonale des Aufnahmeformats
 
 f(N) = $\sqrt{x^2 + y^2}$
 
-Kleinbild
+Kleinbild (siehe [[Cropfaktor]])
 -> 24x36mm -> f(N) = 43,2mm -> eingebürgert hat sich jedoch 50mm bei KB

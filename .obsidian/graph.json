@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:Fachtheorie/MEDT/Lichttechnik  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Fachtheorie/MEDT/Audiotechnik  ",
+      "color": {
+        "a": 1,
+        "rgb": 7621097
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +67,6 @@
   "repelStrength": 9.84375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8091292145733693,
+  "scale": 0.5135719995748932,
   "close": true
 }
