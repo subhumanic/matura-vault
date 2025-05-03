@@ -3,7 +3,7 @@
 [[DC Offset]]
 [[Dynamik]]
 [[Feldgröße vs Energiegröße]]
-[[Frequenzgang]]
+[[Fachtheorie/MEDT/Audiotechnik/Frequenzgang]]
 [[Pegel]]
 [[RMS vs LUFS]]
 [[SNR]]

@@ -6,7 +6,7 @@ Belichtungn von Sensor/Film abhängig von:
 
 -> Belichtungsmesser bringt das in Zusammenhang
 
-[[Empfindlichkeit]]
+[[Fachtheorie/MEDT/Kameratechnik/Belichtung/Empfindlichkeit]]
 [[Belichtungsmessung]]
 [[Belichtungskontrolle]]
 
